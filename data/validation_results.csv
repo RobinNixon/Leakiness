@@ -1,0 +1,16 @@
+rule,compression,activity,lyapunov,classification,predicted_prone,actual_prone,max_lifelike_pct,predicted_d_star,match
+0,0.0216,0.0000,-0.100,resistant_dead,FALSE,FALSE,0.0,NA,TRUE
+128,0.0216,0.0000,-0.100,resistant_dead,FALSE,FALSE,0.0,NA,TRUE
+4,0.0493,0.0000,0.000,resistant_dead,FALSE,FALSE,0.0,NA,TRUE
+60,1.3290,0.4998,0.069,resistant_chaotic,FALSE,FALSE,23.3,NA,TRUE
+110,0.8337,0.4174,0.111,prone,TRUE,TRUE,100.0,8.4,TRUE
+209,0.0929,0.3740,0.041,prone,TRUE,TRUE,100.0,5.2,TRUE
+243,0.1030,0.4940,0.009,prone,TRUE,FALSE,40.0,2.1,FALSE
+150,1.3283,0.5026,0.110,resistant_chaotic,FALSE,FALSE,16.7,NA,TRUE
+30,1.3297,0.4976,0.132,resistant_chaotic,FALSE,FALSE,33.3,NA,TRUE
+120,1.2942,0.4989,0.105,resistant_chaotic,FALSE,FALSE,23.3,NA,TRUE
+253,0.0220,0.0000,-0.100,resistant_dead,FALSE,FALSE,0.0,NA,TRUE
+90,1.3295,0.5032,0.069,resistant_chaotic,FALSE,FALSE,23.3,NA,TRUE
+251,0.0220,0.0000,-0.100,resistant_dead,FALSE,FALSE,0.0,NA,TRUE
+28,0.0582,0.1280,0.026,prone,TRUE,TRUE,100.0,3.8,TRUE
+93,0.0485,0.0000,0.055,prone,TRUE,FALSE,13.3,6.5,FALSE

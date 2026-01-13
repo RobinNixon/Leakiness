@@ -1,0 +1,52 @@
+rule,wolfram_class,compression_bits_per_cell,lyapunov,activity,branching,classification,predicted_prone,max_lifelike_pct,notes
+0,1,0.0216,-0.100,0.0000,0.00,resistant_dead,FALSE,0.0,Class I - dies to all zeros
+8,1,0.0216,-0.100,0.0000,0.00,resistant_dead,FALSE,0.0,Class I - dies to uniform
+4,2,0.0493,0.000,0.0000,1.05,resistant_dead,FALSE,0.0,Class II periodic - low activity
+51,2,0.0668,0.000,1.0000,1.00,prone,TRUE,85.0,Class II periodic
+76,2,0.0530,0.003,0.0000,0.95,prone,TRUE,70.0,Class II periodic
+204,2,0.0542,0.000,0.0000,1.00,resistant_dead,FALSE,0.0,Identity rule
+30,3,1.3297,0.132,0.4976,1.90,resistant_chaotic,FALSE,33.3,Class III chaotic - pseudorandom
+90,3,1.3295,0.069,0.5032,2.00,resistant_chaotic,FALSE,23.3,Class III additive - XOR rule
+150,3,1.3283,0.110,0.5026,3.00,resistant_chaotic,FALSE,16.7,Class III additive
+110,4,0.8337,0.111,0.4174,1.80,prone,TRUE,100.0,Class IV complex - Turing complete
+54,4,0.8800,0.081,0.4200,1.70,prone,TRUE,100.0,Class IV complex
+37,2,0.0605,0.052,0.7560,1.60,prone,TRUE,90.0,Class II periodic
+9,2,0.1806,0.061,0.6419,1.40,prone,TRUE,75.0,Class II periodic
+190,0,0.0914,0.003,0.3200,0.85,prone,TRUE,80.0,Unknown class
+93,0,0.0485,0.055,0.0000,0.95,prone,TRUE,13.3,Edge case - low lifelike despite prediction
+164,2,0.0484,0.002,0.0000,1.15,prone,TRUE,65.0,Class II periodic
+187,0,0.1043,0.006,0.4940,1.20,prone,TRUE,85.0,Unknown class
+203,0,0.0501,0.019,0.0000,1.45,prone,TRUE,70.0,Unknown class
+112,0,0.1034,0.002,0.4780,1.05,prone,TRUE,75.0,Unknown class
+12,2,0.0517,0.009,0.0000,1.15,prone,TRUE,60.0,Class II periodic
+243,0,0.1030,0.009,0.4940,0.90,prone,TRUE,40.0,Edge case - moderate lifelike
+240,0,0.1062,0.000,0.5240,1.00,prone,TRUE,80.0,Unknown class
+222,0,0.0508,0.000,0.0000,1.10,resistant_dead,FALSE,0.0,Dies to uniform
+246,0,0.0912,0.016,0.3380,0.95,prone,TRUE,75.0,Unknown class
+182,0,0.9313,0.101,0.5169,2.10,prone,TRUE,90.0,High compression but active
+71,0,0.0650,0.007,0.3820,1.30,prone,TRUE,85.0,Unknown class
+231,0,0.0945,0.020,0.3700,1.40,prone,TRUE,80.0,Unknown class
+228,0,0.0499,0.006,0.0000,1.35,prone,TRUE,70.0,Unknown class
+18,3,0.9297,0.095,0.5075,1.90,prone,TRUE,86.7,Class III but prone
+191,0,0.0814,0.006,0.2560,1.00,prone,TRUE,75.0,Unknown class
+27,2,0.1610,0.029,0.8170,1.35,prone,TRUE,80.0,Class II periodic
+128,1,0.0216,-0.100,0.0000,0.00,resistant_dead,FALSE,0.0,Class I - all ones
+22,3,1.1606,0.127,0.5263,2.40,resistant_chaotic,FALSE,100.0,Class III but achieves lifelike - false negative
+120,0,1.2942,0.105,0.4989,2.25,resistant_chaotic,FALSE,23.3,High compression active
+72,2,0.0487,0.035,0.0000,0.60,prone,TRUE,55.0,Class II periodic
+230,0,0.0933,0.027,0.3700,1.20,prone,TRUE,80.0,Unknown class
+165,0,1.3299,0.069,0.4999,2.00,resistant_chaotic,FALSE,13.3,High compression active
+209,0,0.0929,0.041,0.3740,1.20,prone,TRUE,100.0,Unknown class - highly lifelike
+13,2,0.0488,0.048,0.0000,0.70,prone,TRUE,60.0,Class II periodic
+34,2,0.1043,0.003,0.5060,1.10,prone,TRUE,70.0,Class II periodic
+103,0,0.1796,0.063,0.6913,1.85,prone,TRUE,80.0,Unknown class
+223,0,0.0500,0.002,0.0000,1.10,prone,TRUE,65.0,Unknown class
+251,1,0.0220,-0.100,0.0000,0.00,resistant_dead,FALSE,0.0,Class I - all ones
+125,0,0.1594,0.061,0.6489,2.00,prone,TRUE,85.0,Unknown class
+28,2,0.0582,0.026,0.1280,1.55,prone,TRUE,100.0,Class II - highly lifelike
+253,1,0.0220,-0.100,0.0000,0.00,resistant_dead,FALSE,0.0,Class I - all ones
+21,0,0.1666,0.007,0.9400,0.65,prone,TRUE,75.0,Unknown class
+140,2,0.0517,0.010,0.0000,1.25,prone,TRUE,60.0,Class II periodic
+208,0,0.0959,0.009,0.3740,1.10,prone,TRUE,80.0,Unknown class
+60,3,1.3290,0.069,0.4998,2.00,resistant_chaotic,FALSE,23.3,Class III additive
+49,0,0.1479,0.053,0.7540,1.50,prone,TRUE,85.0,Unknown class
